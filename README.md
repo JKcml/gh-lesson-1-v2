@@ -14,7 +14,7 @@ No new HTML tags, classes or IDs will need to be created.
 
 You will need to create three branches to complete this task. Please follow the following strategy;
 
-1. Changes to the top nav menu should be made on the branch 
+1. Changes to the top nav menu should be made on the branch
 
     feature/header
 
